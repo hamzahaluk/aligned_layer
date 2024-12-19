@@ -12,6 +12,7 @@ Ensure you have the following installed:
 - [eigenlayer-cli](https://github.com/Layr-Labs/eigenlayer-cli.git)
 - [jq](https://jqlang.github.io/jq/)
 - [yq](https://github.com/mikefarah/yq)
+- [mkcert](https://github.com/FiloSottile/mkcert)
 
 To
 install [Go](https://go.dev/doc/install),
